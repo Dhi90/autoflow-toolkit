@@ -1,5 +1,5 @@
 ````markdown
-# 🚀 AutoFlow Toolkit – Smart Automation Tools for Business Workflows
+ 🚀 AutoFlow Toolkit – Smart Automation Tools for Business Workflows
 
 **AutoFlow Toolkit** is your go-to automation kit for boosting productivity.  
 Whether you're a business owner, marketer, or tech enthusiast – this toolkit saves time by automating repetitive tasks like:
@@ -10,7 +10,7 @@ Whether you're a business owner, marketer, or tech enthusiast – this toolkit s
 
 ---
 
-## 🧠 What Can It Do?
+🧠 What Can It Do?
 
 | Feature | Description |
 |--------|-------------|
@@ -20,15 +20,14 @@ Whether you're a business owner, marketer, or tech enthusiast – this toolkit s
 | 💼 Client-Ready | Built with real business use-cases in mind |
 
 ---
+ ⚙️ Installation & Setup
 
-## ⚙️ Installation & Setup
-
-### 🔧 Prerequisites
+ 🔧 Prerequisites
 
 - Python 3.7+
 - `pip install -r requirements.txt`
 
-### 🔑 Gmail Setup for Emailer
+ 🔑 Gmail Setup for Emailer
 1. Enable 2-Step Verification: [https://myaccount.google.com/security](https://myaccount.google.com/security)  
 2. Generate a 16-digit App Password  
 3. Replace your Gmail & App Password in `config/email.yaml`
@@ -45,9 +44,9 @@ email:
 
 ---
 
-## 🚀 Run Automation
+ 🚀 Run Automation
 
-### 📧 Send Emails to Leads
+ 📧 Send Emails to Leads
 
 ```bash
 python main.py --module emailer --config config/email.yaml --data samples/leads.csv
@@ -57,7 +56,7 @@ python main.py --module emailer --config config/email.yaml --data samples/leads.
 
 ---
 
-### 🌐 Scrape Any Website
+ 🌐 Scrape Any Website
 
 ```bash
 python main.py --module scraper --config config/email.yaml
@@ -68,7 +67,7 @@ python main.py --module scraper --config config/email.yaml
 
 ---
 
-## 🧩 Folder Structure
+ 🧩 Folder Structure
 
 ```
 autoflow/
@@ -86,7 +85,7 @@ autoflow/
 
 ---
 
-## 📈 Why Clients Love It
+ 📈 Why Clients Love It
 
 * 🔁 Saves hours every week
 * 🎯 Helps with lead generation and outreach
@@ -95,7 +94,7 @@ autoflow/
 
 ---
 
-## 💬 Want Custom Automation?
+ 💬 Want Custom Automation?
 
 If you're a business looking to:
 
@@ -108,7 +107,7 @@ If you're a business looking to:
 
 ---
 
-## ⭐ Star This Project to Support!
+ ⭐ Star This Project to Support!
 
 ```
 git clone https://github.com/yourusername/autoflow-toolkit.git
@@ -123,7 +122,7 @@ cd autoflow-toolkit
 
 ---
 
-### ✅ How to Use It
+ ✅ How to Use It
 1. Replace your screenshots' dummy image URLs (or upload your own).
 2. Update your email and portfolio/contact info at the bottom.
 3. Add `requirements.txt` (if not yet):
