@@ -129,10 +129,4 @@ cd autoflow-toolkit
 
 ```
 
-smtplib
-email
-beautifulsoup4
-requests
-pyyaml
 
-```
