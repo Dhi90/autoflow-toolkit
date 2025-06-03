@@ -1,0 +1,7 @@
+email:
+  sender: "dhilipkannan002@gmail.com"
+  password: "xxxx xxxx xxxx xxxx "
+  subject: "Hello {{name}}"
+  body: "Hi {{name}},\n\nThis is a follow-up email.\n\nThanks,\nDhilip"
+  smtp_server: "smtp.gmail.com"
+  port: 587
